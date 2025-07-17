@@ -13,7 +13,7 @@ This game was developed via Unreal Engine 5, exclusively through the visual scri
 - UI Basics
 
 ## Controls
-• WASD: movement
+• WASD: movement<br>
 • Spacebar: jump
 
 ## Warning
